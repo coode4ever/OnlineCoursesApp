@@ -1,1 +1,1 @@
-# RNBoilerplate
+# OnlineCoursesApp
